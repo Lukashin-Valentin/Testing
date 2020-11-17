@@ -8,6 +8,8 @@ namespace Test
     /// </summary>
     public class tstLog
     {
+        // uyuyiuyiuyiuyiuyiu
+
         /// <summary>Протоколирование событий приложения
         /// </summary>
         /// <param name="pString">Протоколируемое сообщение</param>
